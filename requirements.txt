@@ -1,0 +1,10 @@
+openai
+pandas
+matplotlib
+seaborn
+python-dotenv
+langchain
+langchain_openai
+jupyter
+notebook
+ipykernel
